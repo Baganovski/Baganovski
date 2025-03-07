@@ -8,7 +8,8 @@ Welcome to my GitHub profile! Born in 1988, living in England, and I'm currently
 * **Location:** England, UK
 * **Passion:** Creating apps and exploring the world of software development.
 * **Motivation:** I'm a creative person, and coding allows me to bring my ideas to life. I enjoy the process of building something from scratch and seeing it work.
-* **Status:** Hobbyist coder, actively learning.
+* **Status:** Hobbyist coder, actively learning and leveraging AI tools.
+* **AI Assistance:** I like to use AI to assist me in creating apps.
 
 ## What I'm Learning
 
