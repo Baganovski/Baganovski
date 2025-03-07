@@ -29,5 +29,3 @@ I'm using GitHub to:
 * Continue to expand my knowledge of web development and Python.
 * Apply my coding skills and AI assistance to create useful and creative projects.
 * Have fun while coding.
-
-Thank you for visiting my profile!
