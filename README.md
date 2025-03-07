@@ -27,7 +27,7 @@ I'm using GitHub to:
 
 * Successfully complete Angela Yu's coding courses.
 * Continue to expand my knowledge of web development and Python.
-* Apply my coding skills to create useful and creative projects.
+* Apply my coding skills and AI assistance to create useful and creative projects.
 * Have fun while coding.
 
 Thank you for visiting my profile!
