@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Joe
+# Hello World! I'm Joe
 
 Welcome to my GitHub profile! Born in 1988, living in England, and I'm currently on an exciting journey of learning to code as a hobby.
 
