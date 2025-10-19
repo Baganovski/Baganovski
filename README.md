@@ -11,10 +11,6 @@ Welcome to my GitHub profile! Born in 1988, living in England, and I'm currently
 * **Status:** Hobbyist coder, actively learning and leveraging AI tools.
 * **AI Assistance:** I like to use AI to assist me in creating apps.
 
-## What I'm Learning
-
-I'm currently diving deep into web development through Angela Yu's comprehensive coding courses on Udemy. You can check out her profile here: https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/?kw=angela+yu&src=sac
-
 ## Why GitHub?
 
 I'm using GitHub to:
@@ -22,10 +18,3 @@ I'm using GitHub to:
 * Track my progress and solidify my learning.
 * Store and share my projects.
 * Potentially collaborate with other developers in the future.
-
-## Future Goals
-
-* Successfully complete Angela Yu's coding courses.
-* Continue to expand my knowledge of web development and Python.
-* Apply my coding skills and AI assistance to create useful and creative projects.
-* Have fun while coding.
